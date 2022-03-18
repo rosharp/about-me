@@ -261,7 +261,7 @@ select {
   background-color: hsl( var(--clr-light) / .25);
 }
 
-@media (min-width: 35rem) {
+@media (min-width: 30rem) {
   .links-container {
     margin-top: clamp(3rem, 4.5vw, 5rem);
   }
@@ -276,7 +276,7 @@ select {
   }
 }
 
-@media (min-width: 45rem) {
+@media (min-width: 50rem) {
   .links-container a {
     font-size: clamp(1.75rem, 4vw, 2rem);
     padding-top: clamp(4rem, 5vw, 6rem);
